@@ -1,0 +1,7 @@
+.mainHeader {
+    width: 100vw;
+    height: 40px;
+    color: white;
+    background: black;
+    display: flex;
+}
